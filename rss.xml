@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Justin Brochocki]]></title>
+        <description><![CDATA[Justin Brochocki]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 20 Jun 2016 08:36:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Womens Merino + Carbon Running Race Vest]]></title>
+            <description><![CDATA[<article><h1>Womens Merino + Carbon Running Race Vest</h1><p>Race vests should provide maximum comfort so that you never notice them when you run your race with the aim of achieving a PB. To do this you need to blend the correct fibres to guarantee that you stay cool and any sweat is wicked away and dried ultra fast.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/116d42209ebe0a633ccf76df96506f46/noop.png?input=http%3A%2F%2Fwww.ashmei.com%2Fwp-content%2Fuploads%2F2016%2F04%2Fashmei_merino_running_womens_vest_red.png"></article>]]></description>
+            <link>http://www.ashmei.com/shop/womens-run-jerseys/womens-running-race-vest/</link>
+            <guid isPermaLink="false">4e7801ee-6480-4adb-a714-aba8974c99f4</guid>
+            <pubDate>Mon, 20 Jun 2016 08:36:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
